@@ -170,3 +170,7 @@ não enxerga as capacidades sintéticas que a nossa solução usa. Para remover 
 ```bash
 kubectl delete pod teste-padrao
 ```
+
+### Vídeo da apresentação
+
+https://youtu.be/MjIqbPutbXU
