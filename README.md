@@ -173,4 +173,4 @@ kubectl delete pod teste-padrao
 
 ### Vídeo da apresentação
 
-https://youtu.be/MjIqbPutbXU
+https://youtu.be/HYFDN4n_Ea8
